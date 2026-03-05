@@ -93,8 +93,7 @@
 # record()
 
                          #    take somnething return nothing
-# def record(n):
-#     print(n)
+# de
 
 # print("enter your name:-")
 # name=input()
@@ -133,4 +132,5 @@ def add(a,b):
 x=int(input("enter first number"))
 y=int(input("enter second number"))
 s1=add(x,y)
+
 print(s1)
