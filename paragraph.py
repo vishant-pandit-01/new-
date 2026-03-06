@@ -28,8 +28,4 @@ def for_lowercase():
 
 def for_lowercase():
     print("enter your string:-")
-    a=input()
-    
-    if alower()
-        print("change in lower case:-",u)
-
+    a
