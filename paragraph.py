@@ -26,6 +26,4 @@ def for_lowercase():
 
 
 
-def for_lowercase():
-    print("enter your string:-")
-    a
+def for_
