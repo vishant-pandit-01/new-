@@ -21,9 +21,4 @@ print(x)
 # ----- for random value in given data -----
 print(random.choice(['A','B','C','D','E']))
 
-# ----- for random color -----
-print(random.choice(['red','green','yellow']))
-
-# ----- for multiple samples -----
-print(random.sample(['1','2','3','4','5','6'],3))
-`
+# 
