@@ -44,20 +44,4 @@ random.randrange(1,1000)
 
 Returns a random element from a list or sequence.
 
-Example:
-
-```
-random.choice(['A','B','C','D','E'])
-```
-
-### 3. `random.sample(sequence, k)`
-
-Returns **k unique random elements** from a list.
-
-Example:
-
-```
-random.sample(['1','2','3','4','5','6'],3)
-```
-
-## ▶️ How to Run
+Examp
