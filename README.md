@@ -17,8 +17,3 @@ import random
 # ----- for random digit -----
 x = random.randrange(1,1000)
 print(x)
-
-# ----- for random value in given data -----
-print(random.choice(['A','B','C','D','E']))
-
-# 
