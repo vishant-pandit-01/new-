@@ -4,7 +4,9 @@ This repository contains simple examples of using Python's **random module** to 
 
 
 ## 📌 Features
+
 * Generate a random number in a range
 * Select a random value from given data
 * Random color selection
 * Select multiple random samples from a list
+* 
